@@ -1,2 +1,4 @@
 # ShareChat
-It is crossed platform file and chatting application.
+It is a cross-platform file and chatting application.<br>
+
+* Today add the Basic files of the Android project.
